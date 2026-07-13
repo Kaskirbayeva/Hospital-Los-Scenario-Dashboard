@@ -108,7 +108,6 @@ Alternatively, from the project directory:
 shiny::runApp()
 ```
 
----
 
 ## Data Availability
 
@@ -116,39 +115,29 @@ The original hospital episode data used to develop the prediction models are not
 
 This repository therefore includes only:
 
-* representative or synthetic datasets for demonstration purposes;
-* trained model objects (where permitted); and
+* synthetic datasets for demonstration purposes;
 * the complete source code for the dashboard.
 
----
 
 ## Disclaimer
 
 This dashboard is intended as a research demonstration and proof of concept. It is not a certified clinical decision-support system and should not be used as the sole basis for clinical or operational decisions.
 
----
 
 ## Citation
 
-If you use this software in your research, please cite the accompanying publication:
+TBU
 
-*Kaskirbayeva D., et al. Machine Learning-Based Length of Stay Prediction to Support Hospital Resource Allocation: A Nationally Representative Study from Kazakhstan. (Publication details to be updated.)*
-
----
 
 ## License
 
 This project is released under the MIT License. See the `LICENSE` file for details.
 
----
+
 
 ## Contact
 
-**Daliya Kaskirbayeva**
-
-International School of Economics
-
-Maqsut Narikbayev University
+Dr Daliya Kaskirbayeva
 
 Astana, Kazakhstan
 
